@@ -1,0 +1,175 @@
+/*App.css*/
+
+
+
+body {
+  background: linear-gradient(to right, #03f4e3, #00FF00); /* Blue to Green */
+ /* background-image: url('https://media.istockphoto.com/id/1881386776/photo/green-forest-blur-bokeh-background.jpg?s=612x612&w=0&k=20&c=K7WLUG5X8Ieer4SML4ffptJjHs8EGBlPnbhsPnyowzc=');
+  background-size: cover; 
+  background-position: center;  
+  background-repeat: no-repeat;  
+  height: 100vh; */ 
+  
+}
+
+
+
+
+
+
+.cart-items {
+
+  border-radius: 50%;
+  background-color: rgb(20, 158, 105);
+  font-weight: 700;
+  color: aliceblue;
+  width: 30px;
+  height: 30px;
+  font-size: 30px;
+  padding: 10px;
+  top: 10px;
+  position: relative;
+  left: 30px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px sold #ccc;
+
+}
+
+
+/* card */
+/* client/src/components/ProductItem.css */
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #b0f7f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.product-image:hover {
+  transform: scale(1.1);
+  /* Enlarge the image on hover */
+}
+
+.product-details {
+  text-align: center;
+}
+
+
+.item-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h2 {
+  text-align: center;
+}
+
+.filter-btn {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  gap: 10px;
+
+  justify-content: center;
+
+
+}
+
+.prdt-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.cart-num {
+  margin-bottom: 40px;
+  cursor: pointer;
+}
+
+
+.buy-now-btn {
+  background-color: rgb(11, 162, 11);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 2rem;
+  position: fixed;
+  top: 30%;
+  right: 10px;
+  cursor: pointer;
+}
+
+.buy-now-btn:hover {
+  background-color: rgb(113, 230, 113);
+  color: brown;
+}
+
+.gfg {
+  background-color: greenyellow;
+  color:blue;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+nav
+{
+  background-color: aquamarine;
+  font-size: large;
+  color: darkgreen;
+}
+
+nav ul {
+  list-style: none; /* Remove default bullet points */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  color: darkgreen;
+}
+
+nav li {
+  display: inline-block; /* Arrange items horizontally */
+  margin-right: 20px; /* Add spacing between items */
+  color: darkgreen;
+}
+
+nav a {
+  text-decoration: none; /* Remove default underline */
+  color:darkgreen; /* Set link color */
+}
+
+/*.Donate
+{
+  text-align: center;
+  color: blue;
+
+}
+
+.dmsg
+{
+  font-size: medium;
+}
+
+.dhead
+{
+  color: darkgreen;
+}*/
