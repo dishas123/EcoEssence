@@ -1,4 +1,4 @@
-#To run this project follow these steps : <br>
+<b>To run this project follow these steps : </b> <br>
 Step 1: Cloning the repository <br>
 Open a new terminal and type <br>
 git clone https://github.com/dishas123/ecoEssenceLatest.git <br>
@@ -24,7 +24,7 @@ npm install react-router-dom <br>
 npm start
 <br>
 <br>
-#DETAILS OF THE PROJECT: <br>
+<b>DETAILS OF THE PROJECT:</b> <br>
 🌿 EcoEssence – Sustainably Styled <br>
 
 EcoEssence is a sustainability-focused platform that promotes eco-conscious living by enabling users to donate old clothes and scrap materials, earn points, and redeem them for upcycled products. The platform encourages a circular economy while raising awareness about sustainable lifestyles.<br>
@@ -37,11 +37,13 @@ EcoEssence is a sustainability-focused platform that promotes eco-conscious livi
 - 🛍️ Explore a curated collection of upcycled items  <br>
 - 🧑‍🤝‍🧑 Community engagement via blogs and rewards  <br>
 <br>
+<br>
 🛠 Tech Stack<br>
 <br>
 - Frontend: HTML, CSS, JavaScript  <br>
 - Backend: Node.js, Express.js  <br>
 - Database: MongoDB
+<br>
 <br>
 # WEBSITE OUTPUT SCREENSHOTS : <br>
 ![OutputScreenshot1](https://github.com/user-attachments/assets/aab129e5-96c4-4026-b1f8-22cb3a006bbf) <br>
