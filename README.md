@@ -1,4 +1,4 @@
-To run this project follow these steps : <br>
+#To run this project follow these steps : <br>
 Step 1: Cloning the repository <br>
 Open a new terminal and type <br>
 git clone https://github.com/dishas123/ecoEssenceLatest.git <br>
@@ -22,11 +22,9 @@ cd client <br>
 Then run the following commands: <br>
 npm install react-router-dom <br>
 npm start
-
 <br>
 <br>
-<br>
-DETAILS OF THE PROJECT: <br>
+#DETAILS OF THE PROJECT: <br>
 🌿 EcoEssence – Sustainably Styled <br>
 
 EcoEssence is a sustainability-focused platform that promotes eco-conscious living by enabling users to donate old clothes and scrap materials, earn points, and redeem them for upcycled products. The platform encourages a circular economy while raising awareness about sustainable lifestyles.<br>
@@ -44,3 +42,15 @@ EcoEssence is a sustainability-focused platform that promotes eco-conscious livi
 - Frontend: HTML, CSS, JavaScript  <br>
 - Backend: Node.js, Express.js  <br>
 - Database: MongoDB
+<br>
+# WEBSITE OUTPUT SCREENSHOTS : 
+![OutputScreenshot1](https://github.com/user-attachments/assets/aab129e5-96c4-4026-b1f8-22cb3a006bbf)
+![OutputScreenshot2](https://github.com/user-attachments/assets/c0badcf6-9f38-4cf7-8ad6-2f935a55d163)
+![OutputScreenshot3](https://github.com/user-attachments/assets/f42f806a-2c8e-4fa4-b073-a6e368494818)
+![OutputScreenshot4](https://github.com/user-attachments/assets/c9ae69ac-f64b-4d58-b477-12821fb84d07)
+![OutputScreenshot5](https://github.com/user-attachments/assets/8df0dc3b-542c-4459-92ad-33debd9e72a6)
+![OutputScreenshot6](https://github.com/user-attachments/assets/ce549317-afc3-4c3d-bf67-cdfeb8720ded)
+![OutputScreenshot7](https://github.com/user-attachments/assets/505a6138-6900-474d-8498-0cf59fc33d61)
+![OutputScreenshot8](https://github.com/user-attachments/assets/36b966a2-6fab-4452-8a8c-f0736aed6c09)
+![OutputScreenshot9](https://github.com/user-attachments/assets/75c0867c-318f-4893-8cc4-41d93ad1b70b)
+![OutputScreenshot10](https://github.com/user-attachments/assets/9d0224fb-9598-4dd7-a7d4-085b87c15d6d)
