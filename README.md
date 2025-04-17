@@ -56,3 +56,6 @@ EcoEssence is a sustainability-focused platform that promotes eco-conscious livi
 ![OutputScreenshot8](https://github.com/user-attachments/assets/36b966a2-6fab-4452-8a8c-f0736aed6c09) <br>
 ![OutputScreenshot9](https://github.com/user-attachments/assets/75c0867c-318f-4893-8cc4-41d93ad1b70b) <br>
 ![OutputScreenshot10](https://github.com/user-attachments/assets/9d0224fb-9598-4dd7-a7d4-085b87c15d6d)
+
+
+
