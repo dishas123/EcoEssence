@@ -44,6 +44,7 @@ EcoEssence is a sustainability-focused platform that promotes eco-conscious livi
 - Backend: Node.js, Express.js  <br>
 - Database: MongoDB
 <br>
+<br>
 WEBSITE OUTPUT SCREENSHOTS:<br>
 ![OutputScreenshot1](https://github.com/user-attachments/assets/aab129e5-96c4-4026-b1f8-22cb3a006bbf) <br>
 ![OutputScreenshot2](https://github.com/user-attachments/assets/c0badcf6-9f38-4cf7-8ad6-2f935a55d163) <br>
